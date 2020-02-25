@@ -18,7 +18,13 @@ Add line numbers
 
 ### Keybindings
 ```
+<C-l>: indent javascript code
+```
+
+### Vim util keys
+```
 za: fold/unfold blocks
 zr: unfold all blocks
-<C-l>: indent javascript code
+I: Insert mode at beginning of line
+A: Insert mode at end of line
 ```
