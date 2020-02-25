@@ -1,6 +1,9 @@
 syntax enable
 colorscheme darcula
 
+set incsearch
+set hlsearch
+
 """ Plugins
 call plug#begin('~/.vim/plugged')
 
