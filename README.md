@@ -18,6 +18,7 @@ Add line numbers
 
 ### Keybindings
 ```
-za: Fold blocks
-<C-l>: Indent javascript code
+za: fold/unfold blocks
+zr: unfold all blocks
+<C-l>: indent javascript code
 ```
