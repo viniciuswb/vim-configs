@@ -9,3 +9,15 @@ Then download the darcula theme from repository https://github.com/blueshirts/da
 ```
 cp darcula/colors/darcula.vim ~/.vim/colors/
 ```
+
+### Commands
+Add line numbers
+```
+:set nu
+```
+
+### Keybindings
+```
+za: Fold blocks
+<C-l>: Indent javascript code
+```
