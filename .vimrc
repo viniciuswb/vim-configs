@@ -7,7 +7,6 @@ set hlsearch
 """ Plugins
 call plug#begin('~/.vim/plugged')
 
-Plug 'dracula/vim', { 'as': 'dracula' }
 Plug 'sheerun/vim-polyglot'
 Plug 'dense-analysis/ale'
 Plug 'editorconfig/editorconfig-vim'
