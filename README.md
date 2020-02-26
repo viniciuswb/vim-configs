@@ -48,4 +48,5 @@ t: duplicate a line
 cmd + t: new tab based on previus tab
 cmd + n: fresh new tab
 cmd + w: close tab
+cmd + tabnum(ex: 3): move to tab 
 ```
