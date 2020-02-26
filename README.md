@@ -16,6 +16,7 @@ cp darcula/colors/darcula.vim ~/.vim/colors/
 - editorconfig/editorconfig-vim -> add support to editorconfig
 - neoclide/coc.nvim -> intellisens engine
 - hashivim/vim-terraform -> terraform support for vim
+- junegunn/fzf -> command line fuzzy finder
 
 ### Commands
 Add line numbers
