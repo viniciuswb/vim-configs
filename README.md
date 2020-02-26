@@ -11,13 +11,11 @@ cp darcula/colors/darcula.vim ~/.vim/colors/
 ```
 
 ### Plugins
-```
-sheerun/vim-polyglot -> language pack
-dense-analysis/ale -> a lint engine to format codes
-editorconfig/editorconfig-vim -> add support to editorconfig
-neoclide/coc.nvim -> intellisens engine
-hashivim/vim-terraform -> terraform support for vim
-```
+- sheerun/vim-polyglot -> language pack
+- dense-analysis/ale -> a lint engine to format codes
+- editorconfig/editorconfig-vim -> add support to editorconfig
+- neoclide/coc.nvim -> intellisens engine
+- hashivim/vim-terraform -> terraform support for vim
 
 ### Commands
 Add line numbers
