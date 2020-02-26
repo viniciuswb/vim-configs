@@ -10,6 +10,8 @@ call plug#begin('~/.vim/plugged')
 Plug 'sheerun/vim-polyglot'
 Plug 'dense-analysis/ale'
 Plug 'editorconfig/editorconfig-vim'
+Plug 'junegunn/fzf'
+Plug 'junegunn/fzf.vim'
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
 Plug 'hashivim/vim-terraform'
 
