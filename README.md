@@ -27,6 +27,7 @@ Add line numbers
 ### Keybindings
 ```
 <C-l>: indent javascript code
+<C-p>: find files
 ```
 
 ### Vim util keys
