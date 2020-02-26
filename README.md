@@ -28,6 +28,8 @@ Add line numbers
 ```
 <C-l>: indent javascript code
 <C-p>: find files
+<C-\>: Toggle NERDTree
+<C-ww>: switch between NERDTree and File
 ```
 
 ### Vim util keys
@@ -36,4 +38,6 @@ za: fold/unfold blocks
 zr: unfold all blocks
 I: Insert mode at beginning of line
 A: Insert mode at end of line
+gt: Switch between tabs
+qa: close all tabs
 ```
