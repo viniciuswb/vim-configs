@@ -42,3 +42,10 @@ gt: Switch between tabs
 qa: close all tabs
 t: duplicate a line
 ```
+
+### Mac terminal specific keys
+```
+cmd + t: new tab based on previus tab
+cmd + n: fresh new tab
+cmd + w: close tab
+```
