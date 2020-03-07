@@ -41,6 +41,7 @@ A: Insert mode at end of line
 gt: Switch between tabs
 qa: close all tabs
 t: duplicate a line
+dd: delete a line
 ```
 
 ### Mac terminal specific keys
