@@ -42,6 +42,7 @@ gt: Switch between tabs
 qa: close all tabs
 t: duplicate a line
 dd: delete a line
+m: manage files (create/move/remove) in nerdtree
 ```
 
 ### Mac terminal specific keys
