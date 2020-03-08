@@ -40,11 +40,12 @@ Add line numbers
 ```
 za: fold/unfold blocks
 zr: unfold all blocks
-I: Insert mode at beginning of line
-A: Insert mode at end of line
-gt: Switch between tabs
+I: insert mode at beginning of line
+A: insert mode at end of line
+t: new tab
+gt: switch between tabs
 qa: close all tabs
-t.: duplicate a line
+:t.: duplicate a line
 V: select one or multiple lines
 yy: copy a line
 dd: cut a line
