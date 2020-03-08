@@ -11,12 +11,16 @@ cp darcula/colors/darcula.vim ~/.vim/colors/
 ```
 
 ### Plugins
+- scrooloose/nerdtree -> nerdtree
+- Xuyuanp/nerdtree-git-plugin -> git plugin for nerdtree
+- jistr/vim-nerdtree-tabs -> tab plugin for nerdtree
 - sheerun/vim-polyglot -> language pack
 - dense-analysis/ale -> a lint engine to format codes
 - editorconfig/editorconfig-vim -> add support to editorconfig
 - neoclide/coc.nvim -> intellisens engine
 - hashivim/vim-terraform -> terraform support for vim
 - junegunn/fzf -> command line fuzzy finder
+- junegunn/fzf.vim -> fzf for vim
 
 ### Commands
 Add line numbers
