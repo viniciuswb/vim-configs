@@ -3,6 +3,7 @@ colorscheme darcula
 
 set incsearch
 set hlsearch
+set wildignore+=*.DS_Store
 
 """ Plugins
 call plug#begin('~/.vim/plugged')
@@ -29,6 +30,8 @@ let g:terraform_fold_sections=1
 let g:terraform_fmt_on_save=1
 
 let g:nerdtree_tabs_open_on_console_startup=1
+let g:NERDTreeShowHidden=1
+let g:NERDTreeRespectWildIgnore=1
 
 let g:NERDTreeIndicatorMapCustom = {
     \ "Modified"  : "✹",
