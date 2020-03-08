@@ -40,7 +40,9 @@ I: Insert mode at beginning of line
 A: Insert mode at end of line
 gt: Switch between tabs
 qa: close all tabs
-t: duplicate a line
+t.: duplicate a line
+yy: copy a line
+p: paste after current line
 dd: delete a line
 m: manage files (create/move/remove) in nerdtree
 ```
