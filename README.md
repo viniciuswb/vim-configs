@@ -41,9 +41,10 @@ A: Insert mode at end of line
 gt: Switch between tabs
 qa: close all tabs
 t.: duplicate a line
+V: select one or multiple lines
 yy: copy a line
+dd: cut a line
 p: paste after current line
-dd: delete a line
 m: manage files (create/move/remove) in nerdtree
 ```
 
